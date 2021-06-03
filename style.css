@@ -1,7 +1,7 @@
 body
   {
     color: white;
-    background: #8F2D56;
+    background: linear-gradient(to right, rgb(240, 117, 203) ,rgb(250, 102, 102), rgb(255, 9, 161));  ;
   }
   span
   {
